@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: Robbert Liu
 description: My personal website
-logo: test.png
+logo: assets/img/me.jpg
