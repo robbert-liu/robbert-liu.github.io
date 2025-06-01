@@ -13,7 +13,7 @@ This essay was written for a reading course on computational complexity theory a
 
 ## Teaching
 
-I worked as teaching assistant at the University of Toronto for the following courses.  
+I worked as a teaching assistant at the University of Toronto for the following courses.  
   
 CSC165H1: Math. Reasoning and Expression, Winter 2021 (marking)  
 MAT188H1: Linear Algebra, Fall 2021 (tutorial, marking)  
