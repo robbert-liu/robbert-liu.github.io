@@ -2,8 +2,10 @@ I will be beginning my PhD in mathematics at the University of Toronto in fall o
 
 ## Notes
 
-* [Topological Bounds on Algebraic Computation Tree Complexity](./assets/files/mat495_essay.pdf) (2022)  
-This essay was written for a reading course on computational complexity theory and are based on the content of the chapter of the same topic in *Computational Complexity: A Modern Approach* by Arora & Barak. The material is supplemented with an example and a topological proof omitted from the textbook.  
+* [Topological Bounds on Algebraic Computation Tree Complexity](./assets/files/mat495_essay.pdf) (2022)
+{::comment}
+This essay was written for a reading course on computational complexity theory and are based on the content of the chapter of the same topic in *Computational Complexity: A Modern Approach* by Arora & Barak. The material is supplemented with an example and a topological proof omitted from the textbook.
+{:/comment}  
 * [Notes on Algebraic Topology](./assets/files/matd94_notes.pdf) (2022)  
 * [Vector Bundles, Sections, and the Serre-Swan Theorem](./assets/files/matd94_serreswan_essay.pdf) (2022)  
 * [Presentation Notes for Localic Topoi and Barr's Theorem](./assets/files/matd95_localictopoi.pdf) (2022)  
