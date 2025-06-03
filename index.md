@@ -1,6 +1,6 @@
 I will be beginning my PhD in mathematics at the University of Toronto in fall of 2025. I am mostly interested in questions concerning algebra, topology, and combinatorics. 
 
-## Notes and Presentation
+## Notes and Presentations
 
 * [Topological Bounds on Algebraic Computation Tree Complexity](./assets/files/mat495_essay.pdf) (2022)
 {::comment}
