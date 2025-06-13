@@ -1,4 +1,4 @@
-I will be beginning my PhD in mathematics at the University of Toronto in fall of 2025. I am mostly interested in questions concerning algebra, topology, and combinatorics. Outside of my academic studies, I read plenty of fiction and non-mathematical non-fiction, and I make music with my friends in some bands!
+I will be beginning my PhD in mathematics at the University of Toronto in fall of 2025. I am mostly interested in questions concerning algebra, topology, and combinatorics. Outside of math, I read plenty of literature and I make music with my friends in some bands!
 
 ## Notes and Presentations
 
