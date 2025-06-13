@@ -17,14 +17,15 @@ This essay was written for a reading course on computational complexity theory a
 
 * A highlight from my undergrad was obsessing over this [connection of topology and computability theory!](https://martinescardo.github.io/papers/entcs87.pdf)
 * Best music of 
-[Y](https://archive.org/details/supercar-threeoutchange/02+(Am+I)+Confusing+You+_.mp3)
+[Y](https://www.discogs.com/master/64368-Max-Roach-We-Insist-Max-Roachs-Freedom-Now-Suite)
 [E](https://stormandstressofficial.bandcamp.com/album/under-thunder-and-fluorescent-lights)
-[S](https://soundcloud.com/pee-music/sets/now-more-charm-and-more-tender)
+[S](https://www.discogs.com/master/928500-Phantom-Tollbooth-Phantom-Tollbooth)
 [T](https://peakoil.bandcamp.com/album/s-t)
 [E](https://www.discogs.com/release/929211-Sonny-Sharrock-Black-Woman)
-[R](https://www.discogs.com/master/64368-Max-Roach-We-Insist-Max-Roachs-Freedom-Now-Suite)
+[R](https://archive.org/details/supercar-threeoutchange/02+(Am+I)+Confusing+You+_.mp3)
 [D](https://www.discogs.com/release/2591063-Djavan-Luz)
-[AY](https://www.discogs.com/master/928500-Phantom-Tollbooth-Phantom-Tollbooth)
+[A](https://www.discogs.com/master/1899-Matmos-The-Rose-Has-Teeth-In-The-Mouth-Of-A-Beast)
+[Y](https://soundcloud.com/pee-music/sets/now-more-charm-and-more-tender)
 * Best music of 
 [T](https://xkutpx.bandcamp.com/album/4)
 [O](https://ballistacotc.bandcamp.com/album/trans-day-of-violence)
