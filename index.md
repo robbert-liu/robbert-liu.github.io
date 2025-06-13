@@ -1,4 +1,4 @@
-I will be beginning my PhD in mathematics at the University of Toronto in fall of 2025. I am mostly interested in questions concerning algebra, topology, and combinatorics. 
+I will be beginning my PhD in mathematics at the University of Toronto in fall of 2025. I am mostly interested in questions concerning algebra, topology, and combinatorics. Outside of my academic studies, I read plenty of fiction and non-mathematical non-fiction, and I make music with my friends in some bands!
 
 ## Notes and Presentations
 
@@ -11,25 +11,24 @@ This essay was written for a reading course on computational complexity theory a
 * [Presentation Notes for Localic Topoi and Barr's Theorem](./assets/files/matd95_localictopoi.pdf) (2022)  
 * [Notes on Topos Theory](./assets/files/matd95_notes.pdf) (2022)  
 * [Notes on Condensed Mathematics](./assets/files/mproj_notes.pdf) (2024)  
-* [How an Enumerative Combinatorialist Might Solve a PDE](./assets/files/talks_appliedpde.pdf) (2024)  
+* [How an Enumerative Combinatorialist Might Solve a PDE](./assets/files/talks_appliedpde.pdf) (2024)
 
-## Teaching
+## Interesting Links
 
-At the University of Toronto, I worked as a teaching assistant for:
-  
-* CSC165H1: Math. Reasoning and Expression, Marking (2021)
-* MAT188H1: Linear Algebra, Tutorial/Marking (2021)
-* MAT202H5: Intro to Discrete Math, Tutorial/Marking (2021)
-* MAT202H5: Intro to Discrete Math, Tutorial/Marking (2022)
-* MAT344H5: Intro to Combinatorics, Tutorial/Marking (2022) 
-* CSC363H5: Computability and Complexity, Tutorial/Marking (2023)  
-* MAT186H1: Calculus I, Fall 2023, Tutorial/Marking (2023)
-* MAT187H1: Calculus II, Lecture Assistant/Marking (2024)
-* MAT224H5: Linear Algebra II, Tutorial/Marking, (2024)  
-* MAT186H1: Calculus I, Tutorial/Marking (2024)
-* MAT187H1: Calculus II, Marking (2025)
-* MAT1302H: Combinatorial Methods, Lecture/Marking (2025)
-
-## About Me
-
-I read plenty of fiction and non-mathematical non-fiction. I also play several instruments and make music with my friends and some bands!
+* A highlight from my undergrad was obsessing over this [connection of topology and computability theory!](https://martinescardo.github.io/papers/entcs87.pdf)
+* Best music of 
+[Y](https://archive.org/details/supercar-threeoutchange/02+(Am+I)+Confusing+You+_.mp3)
+[E](https://stormandstressofficial.bandcamp.com/album/under-thunder-and-fluorescent-lights)
+[S](https://soundcloud.com/pee-music/sets/now-more-charm-and-more-tender)
+[T](https://peakoil.bandcamp.com/album/s-t)
+[E](https://www.discogs.com/release/929211-Sonny-Sharrock-Black-Woman)
+[R](https://www.discogs.com/master/64368-Max-Roach-We-Insist-Max-Roachs-Freedom-Now-Suite)
+[D](https://www.discogs.com/release/2591063-Djavan-Luz)
+[AY](https://www.discogs.com/master/928500-Phantom-Tollbooth-Phantom-Tollbooth)
+* Best music of 
+[T](https://xkutpx.bandcamp.com/album/4)
+[O](https://ballistacotc.bandcamp.com/album/trans-day-of-violence)
+[D](https://disappointermusic.bandcamp.com/)
+[A](https://soundcloud.com/ilovelilshine/sets/shine-forever)
+[Y](https://colbyrichardson.com/DIMMER-SWITCH)
+[Y](https://www.instagram.com/p/DKjCVcksTKM/)
