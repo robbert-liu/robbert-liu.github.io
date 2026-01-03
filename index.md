@@ -13,6 +13,10 @@ This essay was written for a reading course on computational complexity theory a
 * [Notes on Condensed Mathematics](./assets/files/mproj_notes.pdf) (2024)  
 * [How an Enumerative Combinatorialist Might Solve a PDE](./assets/files/talks_appliedpde.pdf) (2024)
 
+## Creative Work
+
+* [Going going gone: marginal aesthetics](https://www.math.utoronto.ca/mgsa/assets/newsletter-november/newsletter.pdf). A short narrative essay I wrote for the UToronto math graduate students' association about a night in the Toronto punk scene.
+
 ## Interesting Links
 
 * A highlight from my undergrad was obsessing over this [connection of topology and computability theory!](https://martinescardo.github.io/papers/entcs87.pdf)
